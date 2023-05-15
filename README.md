@@ -1,12 +1,12 @@
 # Student Management System - Flutter/Dart
 
 # Overview
-	Android App
-	Flutter Framework
-	Dart programming language
-	SQLite3 Database integration
-	Screens: - Add, View, Delete, Update, CRUDs(combined screen for all the CRUD operations)
-	Backend & Frontend connectivity was done completely.
+	- Android App
+	- Flutter Framework
+	- Dart programming language
+	- SQLite3 Database integration
+	- Screens: - Add, View, Delete, Update, CRUDs(combined screen for all the CRUD operations)
+	- Backend & Frontend connectivity was done completely.
 
 
 # Screens Details
